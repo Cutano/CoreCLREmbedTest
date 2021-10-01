@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ManagedLib": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
